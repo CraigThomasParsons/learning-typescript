@@ -1,0 +1,16 @@
+Tuesday August 5th 2025 - 2025-08-05 16:27:21
+---------------------------------------------
+The Grid Engine.
+https://github.com/Annoraaq/grid-engine
+
+I made a top-down game version of my blog with Phaser and React
+https://javascript.plainenglish.io/i-made-a-top-down-game-version-of-my-blog-with-phaser-and-react-faf5c28cf768
+I like this article and this also has some things I want to steal.
+Like it uses React and it uses Phaser as a pluging.
+Phaser is grid based
+
+
+Ready Player React: How to Build a Video Game With JavaScript — Part 1
+https://medium.com/@jawaragordon/ready-player-react-how-to-build-a-video-game-with-javascript-part-1-fbda59e173f5
+there is a :
+Ready Player React: How to Build a Video Game With JavaScript — Part 2
